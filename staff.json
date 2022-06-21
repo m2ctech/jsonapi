@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "order": 3,
+    "title": "Full Stack Engineer",
+    "dates": "December 2019 - present",
+    "duties": [
+      "Writing well designed, testable, efficient code by using best software development practices.",
+      "Integrating data from various back-end services and databases.",
+      "Be responsible for maintaining, expanding, and scaling our site.",
+      "Gather and refine specifications and requirements based on technical needs."
+    ],
+    "company": "XYDTECH"
+  },
+  {
+    "id": 2,
+    "order": 2,
+    "title": "Front-End Engineer",
+    "dates": "May 2019 - December 2019",
+    "duties": [
+      "Stay plugged into emerging technologies/industry trends and apply them into operations and activities.",
+      "Integrating data from various back-end services and databases.",
+      "Be responsible for maintaining, expanding, and scaling our site.",
+      "Gather and refine specifications and requirements based on technical needs."
+    ],
+    "company": "BIX"
+  },
+  {
+    "id": 3,
+    "order": 1,
+    "title": "Full Stack Engineer",
+    "dates": "December 2019 - May 2020",
+    "duties": [
+      "Writing well designed, testable, efficient code by using best software development practices.",
+      "Cooperate with web designers to match visual design intent.",
+      "Be responsible for maintaining, expanding, and scaling our site.",
+      "Gather and refine specifications and requirements based on technical needs."
+    ],
+    "company": "QWERTY"
+  }
+]
